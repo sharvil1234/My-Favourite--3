@@ -1,0 +1,88 @@
+html {
+    scroll-behavior
+}
+
+
+.container {
+    background-color: paleturquoise;
+}
+
+
+
+#hello {
+    color: chocolate;
+    margin-top: 50px;
+}
+
+.profile {
+    font-family: cursive;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+#myimage {
+    width: 200px;
+    padding-top: 10px;
+}
+
+.navbar-inverse {
+    background-color: darkorange;
+}
+
+#home {
+    ;
+    height: 600px;
+}
+
+h1 {
+    padding-top: 50px;
+}
+
+
+
+
+
+
+#hobby {
+    margin-top: 300px;
+}
+
+#hobby reading {
+    font-size: 40px;
+    margin-bottom: -20px;
+}
+
+.header_entrepreneur {
+    line-height: 3;
+
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+    height: inherit;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
+
+.img-responsive {
+    height: 300px;
+    width: 170px;
+}
